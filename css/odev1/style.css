@@ -1,0 +1,41 @@
+/* navigator */
+.nav li{
+    float: left;
+}
+.nav a{
+        display: block;
+        padding: 8px;
+        background-color: #A7BBC3;
+        color: #FFED38/*#FE667B*/;
+
+}
+.nav ul{
+
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #5B84B1FF;
+}
+
+
+/* body */
+img {
+    width: 300px;
+    height: auto;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+body{
+    background-color:#C0C2CE ;
+    text-align: center;
+}
+p{
+    color: #012F63;
+    
+}
+h1,h2,h3,h4{
+    color: #FFF8AC;
+}
