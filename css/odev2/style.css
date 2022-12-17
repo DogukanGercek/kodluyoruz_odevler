@@ -1,0 +1,47 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+p{
+    display: block;
+    margin: 0px;
+}
+a{
+    display: block;
+}
+.search-box{
+    box-sizing: border-box;
+    background-color: grey;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.input-text{
+    width: 200px;
+    box-sizing: border-box;
+    padding: 0px;
+    }
+.input-submit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cards{
+    width: 33.3334%;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    border: white;
+    border-style: solid;
+    border-collapse: separate;
+    border-spacing: 3px
+}
+.table-cards{
+    width:  90%;
+    margin: auto;
+}   
